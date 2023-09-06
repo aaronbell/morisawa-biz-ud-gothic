@@ -76,16 +76,16 @@ But got:  "BIZ UDゴシック" [code: bad-entry]
 * [com.google.fonts/check/unreachable_glyphs](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs)
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- glyph01322
-	- glyph01880
-	- glyph01621
-	- glyph01782
-	- glyph01643
-	- glyph12116
-	- glyph13666
-	- glyph01572
-	- glyph01448
-	- glyph12171 
+	- glyph01604
+	- glyph12303
+	- glyph01338
+	- glyph01544
+	- glyph01618
+	- glyph01797
+	- glyph12289
+	- glyph01360
+	- glyph12153
+	- glyph13338 
 	- And 1285 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -229,16 +229,16 @@ But got:  "BIZ UDゴシック Bold" [code: bad-entry]
 * [com.google.fonts/check/unreachable_glyphs](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs)
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- glyph01322
-	- glyph01880
-	- glyph01621
-	- glyph01782
-	- glyph01643
-	- glyph12116
-	- glyph13666
-	- glyph01572
-	- glyph01448
-	- glyph12171 
+	- glyph01604
+	- glyph12303
+	- glyph01338
+	- glyph01544
+	- glyph01618
+	- glyph01797
+	- glyph12289
+	- glyph01360
+	- glyph12153
+	- glyph13338 
 	- And 1285 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -377,16 +377,16 @@ But got:  "BIZ UDPゴシック" [code: bad-entry]
 * [com.google.fonts/check/unreachable_glyphs](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs)
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- glyph00429
-	- glyph01022
-	- glyph00037
-	- glyph00856
-	- glyph00933
-	- glyph00501
-	- glyph01025
-	- glyph12915
-	- glyph00101
-	- glyph00145 
+	- glyph13421
+	- glyph00959
+	- glyph00891
+	- glyph12526
+	- glyph13455
+	- glyph13467
+	- glyph00298
+	- glyph00021
+	- glyph00897
+	- glyph00948 
 	- And 1113 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -418,7 +418,7 @@ The following glyphs do not have the recommended number of contours:
 </div></details><details><summary>⚠ <b>WARN:</b> Check if OS/2 xAvgCharWidth is correct.</summary><div>
 * [com.google.fonts/check/xavgcharwidth](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/os2.html#com.google.fonts/check/xavgcharwidth)
 
-* ⚠ **WARN** OS/2 xAvgCharWidth is 1801 but it should be 1963 which corresponds to the average of the widths of all glyphs in the font. [code: xAvgCharWidth-wrong]
+* ⚠ **WARN** OS/2 xAvgCharWidth is 1804 but it should be 1963 which corresponds to the average of the widths of all glyphs in the font. [code: xAvgCharWidth-wrong]
 </div></details><details><summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary><div>
 * [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
 
@@ -529,16 +529,16 @@ But got:  "BIZ UDPゴシック Bold" [code: bad-entry]
 * [com.google.fonts/check/unreachable_glyphs](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs)
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- glyph00429
-	- glyph01022
-	- glyph00037
-	- glyph00856
-	- glyph00933
-	- glyph00501
-	- glyph01025
-	- glyph12915
-	- glyph00101
-	- glyph00145 
+	- glyph13421
+	- glyph00959
+	- glyph00891
+	- glyph12526
+	- glyph13455
+	- glyph13467
+	- glyph00298
+	- glyph00021
+	- glyph00897
+	- glyph00948 
 	- And 1113 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -570,7 +570,7 @@ The following glyphs do not have the recommended number of contours:
 </div></details><details><summary>⚠ <b>WARN:</b> Check if OS/2 xAvgCharWidth is correct.</summary><div>
 * [com.google.fonts/check/xavgcharwidth](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/os2.html#com.google.fonts/check/xavgcharwidth)
 
-* ⚠ **WARN** OS/2 xAvgCharWidth is 1811 but it should be 1964 which corresponds to the average of the widths of all glyphs in the font. [code: xAvgCharWidth-wrong]
+* ⚠ **WARN** OS/2 xAvgCharWidth is 1814 but it should be 1964 which corresponds to the average of the widths of all glyphs in the font. [code: xAvgCharWidth-wrong]
 </div></details><details><summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary><div>
 * [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
 
